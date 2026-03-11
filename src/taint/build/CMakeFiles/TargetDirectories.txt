@@ -1,0 +1,3 @@
+/Users/lidongyooo/repositories/GumTrace/src/taint/build/CMakeFiles/taint_tracker.dir
+/Users/lidongyooo/repositories/GumTrace/src/taint/build/CMakeFiles/edit_cache.dir
+/Users/lidongyooo/repositories/GumTrace/src/taint/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/lidongyooo/repositories/GumTrace/src/taint/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
